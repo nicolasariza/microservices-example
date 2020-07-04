@@ -1,0 +1,4 @@
+/api-monolithic/node_modules
+/microservices/book-service/node_modules
+/microservices/car-service/node_modules
+/microservices/user-service/node_modules
